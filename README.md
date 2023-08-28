@@ -1,6 +1,3 @@
-Your code appears to be a pair of Java servlets (`servlet1` and `servlet2`) that manage user sessions to create a simple login and profile display system.
-Below is a description of each servlet's functionality:
-
 ### `servlet1`
 
 - This servlet handles the HTTP GET request.
